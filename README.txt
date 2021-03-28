@@ -1,2 +1,1 @@
-ctf_q21_empire_tmp_albatraoz
-SecurinetsQuals2K21 Hack The Empire Challenge
+Python_Dependency_Confusion_Attack_POC
